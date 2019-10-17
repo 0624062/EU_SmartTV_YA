@@ -90,6 +90,8 @@ SMART TV
 
 身為一個潔癖者，我希望手油油的時候能不碰到遙控器就能轉台，這樣才能在遙控器乾淨的情況下轉台。
 
+### 8. 循序圖
 
+### 9. 強韌圖
 
 https://drive.google.com/file/d/1QG9vxr-CIut_ntqheUhPtDR7YyMvqoH5/view?usp=sharing
