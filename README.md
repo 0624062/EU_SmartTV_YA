@@ -23,6 +23,12 @@ class CTriangle extends CShape
         System.out.print("area="+0.5*a*b);
     }
 }
-
+public class Main{
+    public static void main(String args[]){
+        CTriangle CTriangle = new CTriangle(3,4,5);
+        CTriangle.setColor("Red");
+        CTriangle.show();
+    }
+ }
 
 ```
