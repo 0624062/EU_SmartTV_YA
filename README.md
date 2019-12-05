@@ -1,3 +1,4 @@
+### 1121
 ```java
 abstract class  CShape
 {
@@ -31,4 +32,18 @@ public class Main{
     }
  }
 
+```
+
+### 1205
+```java
+public static void main(String[] args) {
+    class Student {
+        Course[] courses = new Course[10];
+        
+    }
+    class Course {
+        
+    }
+
+}
 ```
